@@ -2,6 +2,7 @@
 
 ### Test labels for cost attribution
 
+    Let's there are multiple teams using same project and we want to segragate the cost for gemini. We can use the labels in code to tag the calls. 
 
 ### Run multiple
 
