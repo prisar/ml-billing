@@ -2,7 +2,7 @@
 
 ### Test labels for cost attribution
 
-    Let's there are multiple teams using same project and we want to segragate the cost for gemini. We can use the labels in code to tag the calls. 
+    Let's there are multiple teams using same project and we want to segragate the cost for gemini. We can use the labels in code to tag the calls. In the cost table and the bigquery the data will be reflected. For bigquery it will take 1-2 days whereas for cost table the labels will start reflecting during the month end when invoice is created. 
 
 ### Run multiple
 
