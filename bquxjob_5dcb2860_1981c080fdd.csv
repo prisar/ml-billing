@@ -1,0 +1,2976 @@
+billing_account_id,service,sku,usage_start_time,usage_end_time,project,labels,system_labels,location,resource,tags,price,subscription,transaction_type,seller_name,export_time,cost,currency,currency_conversion_rate,usage,credits,invoice,cost_type,adjustment_info,cost_at_list,cost_at_effective_price_default,cost_at_list_consumption_model,consumption_model
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""1127-99B9-1860"",
+    ""description"": ""Gemini 2.0 Flash Text Input - Predictions""
+  }
+}",2025-07-16 18:00:00.000000 UTC,2025-07-16 19:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""12.856875"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""12.856875"",
+    ""effective_price_default"": ""12.856875"",
+    ""list_price_consumption_model"": ""12.856875""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,7.7e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""6.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""6.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",7.7e-05,7.7e-05,7.7e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""1127-99B9-1860"",
+    ""description"": ""Gemini 2.0 Flash Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""vertexai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""12.856875"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""12.856875"",
+    ""effective_price_default"": ""12.856875"",
+    ""list_price_consumption_model"": ""12.856875""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.000539,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""42.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""42.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.000539,0.000539,0.000539,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""DFB0-8442-43A8"",
+    ""description"": ""Gemini 2.0 Flash Text Output - Predictions""
+  }
+}",2025-07-16 18:00:00.000000 UTC,2025-07-16 19:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""51.427500001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""51.427500001"",
+    ""effective_price_default"": ""51.427500001"",
+    ""list_price_consumption_model"": ""51.427500001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.048341,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""940.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""940.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.048341,0.048341,0.048341,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""DFB0-8442-43A8"",
+    ""description"": ""Gemini 2.0 Flash Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""vertexai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""51.427500001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""51.427500001"",
+    ""effective_price_default"": ""51.427500001"",
+    ""list_price_consumption_model"": ""51.427500001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.351917,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""6843.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""6843.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.351917,0.351917,0.351917,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:47:17.940901 UTC,2.5e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.5e-05,2.5e-05,2.5e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.6e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.6e-05,2.6e-05,2.6e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.5e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.5e-05,2.5e-05,2.5e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.6e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.6e-05,2.6e-05,2.6e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:11:26.467705 UTC,0.000462,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""18.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""18.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.000462,0.000462,0.000462,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001928,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001928,0.001928,0.001928,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001928,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001928,0.001928,0.001928,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001929,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001929,0.001929,0.001929,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.036642,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""171.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""171.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.036642,0.036642,0.036642,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029357,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029357,0.029357,0.029357,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029356,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029356,0.029356,0.029356,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029356,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029356,0.029356,0.029356,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": null
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": null
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.557774,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""2603.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""2603.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.557774,0.557774,0.557774,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""1127-99B9-1860"",
+    ""description"": ""Gemini 2.0 Flash Text Input - Predictions""
+  }
+}",2025-07-16 18:00:00.000000 UTC,2025-07-16 19:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""12.856875"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""12.856875"",
+    ""effective_price_default"": ""12.856875"",
+    ""list_price_consumption_model"": ""12.856875""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,7.7e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""6.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""6.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",7.7e-05,7.7e-05,7.7e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""1127-99B9-1860"",
+    ""description"": ""Gemini 2.0 Flash Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""vertexai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""12.856875"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""12.856875"",
+    ""effective_price_default"": ""12.856875"",
+    ""list_price_consumption_model"": ""12.856875""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.000539,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""42.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""42.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.000539,0.000539,0.000539,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""DFB0-8442-43A8"",
+    ""description"": ""Gemini 2.0 Flash Text Output - Predictions""
+  }
+}",2025-07-16 18:00:00.000000 UTC,2025-07-16 19:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""51.427500001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""51.427500001"",
+    ""effective_price_default"": ""51.427500001"",
+    ""list_price_consumption_model"": ""51.427500001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.048341,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""940.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""940.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.048341,0.048341,0.048341,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""DFB0-8442-43A8"",
+    ""description"": ""Gemini 2.0 Flash Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""vertexai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""us-central1"",
+    ""country"": ""US"",
+    ""region"": ""us-central1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""51.427500001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""51.427500001"",
+    ""effective_price_default"": ""51.427500001"",
+    ""list_price_consumption_model"": ""51.427500001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.351917,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""6843.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""6843.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.351917,0.351917,0.351917,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.6e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.6e-05,2.6e-05,2.6e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.5e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.5e-05,2.5e-05,2.5e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,2.6e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.6e-05,2.6e-05,2.6e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:47:17.940901 UTC,2.5e-05,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""1.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""1.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",2.5e-05,2.5e-05,2.5e-05,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""FDAB-647C-5A22"",
+    ""description"": ""Gemini 2.5 Flash GA Text Input - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""25.713750001"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""25.713750001"",
+    ""effective_price_default"": ""25.713750001"",
+    ""list_price_consumption_model"": ""25.713750001""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:11:26.467705 UTC,0.000462,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""18.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""18.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.000462,0.000462,0.000462,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001928,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001928,0.001928,0.001928,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001929,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001929,0.001929,0.001929,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.001928,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""9.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""9.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.001928,0.001928,0.001928,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""A253-E8A3-DE5C"",
+    ""description"": ""Gemini 2.5 Flash GA Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.036642,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""171.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""171.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.036642,0.036642,0.036642,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": []
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029356,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029356,0.029356,0.029356,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029356,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029356,0.029356,0.029356,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:17:28.767686 UTC,0.029357,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""137.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""137.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.029357,0.029357,0.029357,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
+017845-BC6128-B0647B,"{
+  ""service"": {
+    ""id"": ""C7E2-9256-1C43"",
+    ""description"": ""Vertex AI""
+  }
+}","{
+  ""sku"": {
+    ""id"": ""CD33-11F4-1220"",
+    ""description"": ""Gemini 2.5 Flash Ga Thinking Text Output - Predictions""
+  }
+}",2025-07-16 19:00:00.000000 UTC,2025-07-16 20:00:00.000000 UTC,"{
+  ""project"": {
+    ""id"": ""mrc-quant-ml"",
+    ""number"": ""491932162370"",
+    ""name"": ""mrc-quant-ml"",
+    ""labels"": [],
+    ""ancestry_numbers"": null,
+    ""ancestors"": [{
+      ""resource_name"": ""projects/491932162370"",
+      ""display_name"": ""mrc-quant-ml""
+    }]
+  }
+}","{
+  ""labels"": [{
+    ""key"": ""code"",
+    ""value"": ""genai-library""
+  }, {
+    ""key"": ""component"",
+    ""value"": ""frontend""
+  }, {
+    ""key"": ""environment"",
+    ""value"": ""production""
+  }, {
+    ""key"": ""team"",
+    ""value"": ""research""
+  }]
+}","{
+  ""system_labels"": []
+}","{
+  ""location"": {
+    ""location"": ""asia-southeast1"",
+    ""country"": ""SG"",
+    ""region"": ""asia-southeast1"",
+    ""zone"": null
+  }
+}","{
+  ""resource"": {
+    ""name"": null,
+    ""global_name"": null
+  }
+}","{
+  ""tags"": []
+}","{
+  ""price"": {
+    ""effective_price"": ""214.281250005"",
+    ""tier_start_amount"": ""0"",
+    ""unit"": ""count"",
+    ""pricing_unit_quantity"": ""1000000"",
+    ""list_price"": ""214.281250005"",
+    ""effective_price_default"": ""214.281250005"",
+    ""list_price_consumption_model"": ""214.281250005""
+  }
+}","{
+  ""subscription"": {
+    ""instance_id"": null
+  }
+}",GOOGLE,Google,2025-07-16 22:02:56.761504 UTC,0.557774,INR,85.712500002101024,"{
+  ""usage"": {
+    ""amount"": ""2603.0"",
+    ""unit"": ""requests"",
+    ""amount_in_pricing_units"": ""2603.0"",
+    ""pricing_unit"": ""count""
+  }
+}","{
+  ""credits"": []
+}","{
+  ""invoice"": {
+    ""month"": ""202507"",
+    ""publisher_type"": ""GOOGLE""
+  }
+}",regular,"{
+  ""adjustment_info"": {
+    ""id"": null,
+    ""description"": null,
+    ""mode"": null,
+    ""type"": null
+  }
+}",0.557774,0.557774,0.557774,"{
+  ""consumption_model"": {
+    ""id"": ""7754-699E-0EBF"",
+    ""description"": ""Default""
+  }
+}"
